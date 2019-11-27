@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5657" started-at="2019-11-26T07:29:13Z" finished-at="2019-11-26T07:29:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5657" started-at="2019-11-26T07:29:13Z" finished-at="2019-11-26T07:29:19Z">
+      <class name="com.testscript.JqueryTestScript">
+        <test-method status="PASS" signature="open()[pri:0, instance:com.testscript.JqueryTestScript@72d818d1]" name="open" is-config="true" duration-ms="9380" started-at="2019-11-26T12:59:04Z" finished-at="2019-11-26T12:59:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="jqueryscript()[pri:0, instance:com.testscript.JqueryTestScript@72d818d1]" name="jqueryscript" duration-ms="5631" started-at="2019-11-26T12:59:13Z" finished-at="2019-11-26T12:59:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jqueryscript -->
+      </class> <!-- com.testscript.JqueryTestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
